@@ -2,7 +2,7 @@
 
 ## Description
 
-This web page displays a 3D Tesla Workshop 2021 where the user can manipulate 2 Tesla cars and select their paint color. 
+This web page displays a 3D Tesla Workshop where the user can manipulate 2 Tesla cars and select their paint color. 
 
 ![](public/DEMO.gif)
 
