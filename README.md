@@ -1,6 +1,17 @@
+# Tesla CyberTruck/Model3 3D Paint Selector
+
+## Description
+
+This web page displays a 3D Tesla Workshop 2021 where the user can manipulate 2 Tesla cars and select their paint color. 
+
 ![](public/DEMO.gif)
 
-# Getting Started with Create React App
+## What is react-three-fiber?
+
+React-three-fiber is a React renderer for Three.js on the web and react-native, it is a boost to the speed at which you create 3D models and animations with Three.js
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
